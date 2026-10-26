@@ -1,0 +1,101 @@
+[
+  {
+    "File Name": "6683127-House-Rental-Contract-GERALDINE-GALINATO-v2-Page-1",
+    "Aggrement Value": 6500,
+    "Aggrement Start Date": "20.05.2007",
+    "Aggrement End Date": "20.05.2008",
+    "Renewal Notice (Days)": null,
+    "Party One": "Antonio Levy S. Ingles. Jr. and/or Mary Rose C. Ingles",
+    "Party Two": "GERALDINE O. GALINATO.",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "6683129-House-Rental-Contract-Geraldine-Galinato-v2",
+    "Aggrement Value": 6500,
+    "Aggrement Start Date": "20.05.2007",
+    "Aggrement End Date": "20.05.2008",
+    "Renewal Notice (Days)": 15,
+    "Party One": "Antonio Levy S. Ingles. Jr. and/or Mary Rose C. Ingles",
+    "Party Two": "GERALDINE O. GALINATO",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "18325926-Rental-Agreement-1",
+    "Aggrement Value": 4000,
+    "Aggrement Start Date": "05.12.2008",
+    "Aggrement End Date": "04.11.2009",
+    "Renewal Notice (Days)": 90,
+    "Party One": "K.Kuttan",
+    "Party Two": "P.M. Narayana Namboodri",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "36199312-Rental-Agreement",
+    "Aggrement Value": 3800,
+    "Aggrement Start Date": "01.05.2010",
+    "Aggrement End Date": "31.03.2011",
+    "Renewal Notice (Days)": 30,
+    "Party One": "Balaji.R",
+    "Party Two": "Kartheek R",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "44737744-Maddireddy-Bhargava-Reddy-Rental-Agreement",
+    "Aggrement Value": 999790,
+    "Aggrement Start Date": null,
+    "Aggrement End Date": null,
+    "Renewal Notice (Days)": null,
+    "Party One": "M. V, V« VI JAY A SHANKAR",
+    "Party Two": "MADDIREDDY BHARGAVA REDDY",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "47854715-RENTAL-AGREEMENT",
+    "Aggrement Value": 9000,
+    "Aggrement Start Date": "01.04.2010",
+    "Aggrement End Date": "28.02.2011",
+    "Renewal Notice (Days)": 60,
+    "Party One": "P C MATHEW",
+    "Party Two": "L GOPINATH",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "50070534-RENTAL-AGREEMENT",
+    "Aggrement Value": 10000,
+    "Aggrement Start Date": "01.04.2010",
+    "Aggrement End Date": "30.03.2011",
+    "Renewal Notice (Days)": 90,
+    "Party One": "P. JohnsonRavikumar",
+    "Party Two": "Saravanan BV",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "54770958-Rental-Agreement",
+    "Aggrement Value": 5500,
+    "Aggrement Start Date": "20.04.2011",
+    "Aggrement End Date": "19.03.2012",
+    "Renewal Notice (Days)": 60,
+    "Party One": "Asha flamesh & Ramesh.K.N.",
+    "Party Two": "Sadasivuni Deepti & Sadasivuni Kiran",
+    "Status": "SUCCESS",
+    "Error": ""
+  },
+  {
+    "File Name": "54945838-Rental-Agreement",
+    "Aggrement Value": 8000,
+    "Aggrement Start Date": "01.04.2011",
+    "Aggrement End Date": "31.03.2012",
+    "Renewal Notice (Days)": 90,
+    "Party One": "Prof. K. Parthasarathy",
+    "Party Two": "Mr. Veerabrahmam Bathini",
+    "Status": "SUCCESS",
+    "Error": ""
+  }
+]

@@ -1,0 +1,13 @@
+TEST per-field recall
+=====================
+Documents: 4
+
+Field                     Correct  Total   Recall  Relaxed
+Aggrement Value                 4      4   100.0%   100.0%
+Aggrement Start Date            4      4   100.0%   100.0%
+Aggrement End Date              2      4    50.0%    50.0%
+Renewal Notice (Days)           3      4    75.0%    75.0%
+Party One                       4      4   100.0%   100.0%
+Party Two                       2      4    50.0%    75.0%
+
+Macro-average recall: 79.2%

@@ -1,0 +1,13 @@
+TRAIN per-field recall
+======================
+Documents: 9
+
+Field                     Correct  Total   Recall  Relaxed
+Aggrement Value                 6      9    66.7%    66.7%
+Aggrement Start Date            6      9    66.7%    66.7%
+Aggrement End Date              3      9    33.3%    33.3%
+Renewal Notice (Days)           6      9    66.7%    66.7%
+Party One                       3      9    33.3%    33.3%
+Party Two                       5      9    55.6%    55.6%
+
+Macro-average recall: 53.7%
